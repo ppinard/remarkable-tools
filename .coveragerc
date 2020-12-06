@@ -1,0 +1,2 @@
+[run]
+omit=remarkable_tools/_version.py
